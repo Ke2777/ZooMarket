@@ -73,7 +73,7 @@
                 <ComboBoxItem HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25"> от 30 до 70%</ComboBoxItem>
                 <ComboBoxItem HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25"> от 70 до 100%</ComboBoxItem>
             </ComboBox>
-            <ComboBox Name="CategoryComboBox" Grid.Row="3" Grid.Column="5" Margin="0 ,25, 10, 25" FontSize="25" SelectionChanged="CategoryChanged">
+            <ComboBox Name="CategoryComboBoxTest" Grid.Row="3" Grid.Column="5" Margin="0 ,25, 10, 25" FontSize="25" SelectionChanged="CategoryChanged">
             </ComboBox>
             <TextBox Name="searchTextBox" Grid.Row="3" Grid.Column="7" Margin="0 ,35, 10, 35" FontSize="25" TextChanged="SearchChanged"/>
 
