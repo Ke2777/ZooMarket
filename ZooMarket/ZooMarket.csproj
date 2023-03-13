@@ -104,10 +104,24 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Forms\ProductAddPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Forms\ProductEditPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Forms\ManuPage.xaml.cs">
       <DependentUpon>ManuPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ProductAddPage.xaml.cs">
+      <DependentUpon>ProductAddPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ProductEditPage.xaml.cs">
+      <DependentUpon>ProductEditPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Migrations\202302031047055_migr-1.cs" />
     <Compile Include="Migrations\202302031047055_migr-1.designer.cs">

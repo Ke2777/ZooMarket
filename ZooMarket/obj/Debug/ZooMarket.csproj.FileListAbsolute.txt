@@ -1,3 +1,12 @@
+D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket.csproj.AssemblyReference.cache
+D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\AuthPage.g.cs
+D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\MainWindow.g.cs
+D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\ManuPage.g.cs
+D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\ProductEditPage.g.cs
+D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\App.g.cs
+D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket_MarkupCompile.cache
+D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket_MarkupCompile.lref
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\bin\Debug\ZooMarket.exe.config
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\bin\Debug\ZooMarket.exe
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\bin\Debug\ZooMarket.pdb
@@ -5,17 +14,10 @@ D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\bin\Deb
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\bin\Debug\EntityFramework.SqlServer.dll
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\bin\Debug\EntityFramework.xml
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\bin\Debug\EntityFramework.SqlServer.xml
-D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket.csproj.AssemblyReference.cache
-D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket.csproj.SuggestedBindingRedirects.cache
-D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\AuthPage.g.cs
-D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\MainWindow.g.cs
-D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\ManuPage.g.cs
-D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\App.g.cs
-D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket_MarkupCompile.cache
-D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket_MarkupCompile.lref
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\AuthPage.baml
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\MainWindow.baml
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\ManuPage.baml
+D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\ProductEditPage.baml
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket.g.resources
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket.Migrations.migr1.resources
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket.Migrations.migr2.resources
@@ -27,3 +29,5 @@ D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Deb
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket.csproj.CopyComplete
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket.exe
 D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\ZooMarket.pdb
+D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\ProductAddPage.g.cs
+D:\Programming\Visual studio projects\Матысик\ZooMarket\ZooMarket\obj\Debug\Forms\ProductAddPage.baml

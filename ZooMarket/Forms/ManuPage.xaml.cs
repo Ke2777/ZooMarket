@@ -32,6 +32,7 @@ namespace ZooMarket.Forms
 			Helper.mainWindow.Height = 800;
 			count = Helper.db.Product.Count();
 			if(Helper.user != null) { RoleLabel.Content = Helper.user.Surname.ToString(); }
+			if(Helper.roleId == 3) { AddButton.Visibility = Visibility.Visible;}
 			showList();
 		}
 
@@ -50,6 +51,21 @@ namespace ZooMarket.Forms
 		{
 			search = searchTextBox.Text;
 			showList();
+		}
+
+		private void CatalogListView_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+		{
+			var selectedProduct = ((ListView)(sender)).SelectedItem as Product;
+			
+			if(Helper.roleId == 3)
+			{ 
+			Helper.frame.Navigate(new ProductEditPage(selectedProduct));
+			}
+		}
+
+		private void AddButtonClick(object sender, RoutedEventArgs e)
+		{
+			Helper.frame.Navigate(new ProductAddPage());
 		}
 
 		private void DiscountChanged(object sender, SelectionChangedEventArgs e)

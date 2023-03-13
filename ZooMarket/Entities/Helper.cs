@@ -13,6 +13,7 @@ namespace ZooMarket.Entities
 		public static Frame frame; 
 		public static ZooMarket db;
 		public static User user;
+		public static int roleId;
 
 	}
 }

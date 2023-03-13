@@ -59,6 +59,7 @@ namespace ZooMarket.Forms
 			else
 			{
 				MessageBox.Show("Вы зашли как " + Helper.user.Role.TypeName);
+				Helper.roleId = Helper.user.RoleId;
 				Helper.frame.Navigate(new ManuPage());
 
 			}
