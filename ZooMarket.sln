@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooMarket", "ZooMarket\ZooMarket.csproj", "{8CB69553-518F-45B6-B53E-B8FA2B40BC79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooMarketTests", "ZooMarketTests\ZooMarketTests.csproj", "{C9F78F4D-9C00-4240-937E-77E61C286FA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8CB69553-518F-45B6-B53E-B8FA2B40BC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CB69553-518F-45B6-B53E-B8FA2B40BC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CB69553-518F-45B6-B53E-B8FA2B40BC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F78F4D-9C00-4240-937E-77E61C286FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F78F4D-9C00-4240-937E-77E61C286FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F78F4D-9C00-4240-937E-77E61C286FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F78F4D-9C00-4240-937E-77E61C286FA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
